@@ -1,0 +1,2 @@
+# Convenience bash script to call the test script
+python restrunner.py
